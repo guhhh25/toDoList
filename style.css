@@ -1,0 +1,37 @@
+body{
+  font-size: 20px;
+}
+
+.container{
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  
+}
+
+
+li{
+  
+  margin: 0 auto;
+}
+
+
+.container{
+  background-color: rgb(124, 179, 124);
+}
+
+
+.container2{
+  padding: 20px 20px;
+}
+
+.liNome{
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+
+.apagar{
+  position:relative;
+  
+}
